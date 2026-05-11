@@ -1,0 +1,40 @@
+{
+  "title": "海外微短剧APP素材投放（总榜）",
+  "source": "DataEye",
+  "period": {
+    "start": "2026-03-16",
+    "end": "2026-03-22"
+  },
+  "list": [
+    { "rank": 1,  "product": "NetShort",        "company": "NETSTORY PTE. LTD.",            "regions": ["法国", "德国", "葡萄牙"],         "materials_text": "16.9w", "materials": 169000 },
+    { "rank": 2,  "product": "FreeReels",       "company": "昆仑万维",                       "regions": ["印度尼西亚", "印度", "菲律宾"],     "materials_text": "15.7w", "materials": 157000 },
+    { "rank": 3,  "product": "DramaWave",       "company": "昆仑万维",                       "regions": ["德国", "葡萄牙", "法国"],          "materials_text": "11.4w", "materials": 114000 },
+    { "rank": 4,  "product": "Kuku TV",         "company": "MEBIGO LABS PRIVATE LIMITED",   "regions": ["美国", "新加坡", "印度尼西亚"],     "materials_text": "5.3w",  "materials": 53000  },
+    { "rank": 5,  "product": "ReelShort",       "company": "枫叶互动",                       "regions": ["德国", "法国", "美国"],            "materials_text": "4.1w",  "materials": 41000  },
+    { "rank": 6,  "product": "DramaBox",        "company": "STORYMATRIX",                   "regions": ["德国", "法国", "葡萄牙"],          "materials_text": "3.6w",  "materials": 36000  },
+    { "rank": 7,  "product": "ShortMax",        "company": "九州文化",                       "regions": ["德国", "法国", "美国"],            "materials_text": "3.2w",  "materials": 32000  },
+    { "rank": 8,  "product": "GoodShort",       "company": "新阅时代",                       "regions": ["葡萄牙", "法国", "西班牙"],         "materials_text": "2.8w",  "materials": 28000  },
+    { "rank": 9,  "product": "StardustTV",      "company": "Hongxing Media Co., Limited",   "regions": ["德国", "法国", "葡萄牙"],          "materials_text": "2.7w",  "materials": 27000  },
+    { "rank": 10, "product": "My Drama",        "company": "Holy Water Limited",            "regions": ["德国", "法国", "意大利"],          "materials_text": "2.4w",  "materials": 24000  },
+    { "rank": 11, "product": "DramaShorts",     "company": "Brailion Ventures Limited",     "regions": ["西班牙", "葡萄牙", "法国"],         "materials_text": "1.5w",  "materials": 15000  },
+    { "rank": 12, "product": "Melolo",          "company": "Poligon",                       "regions": ["印度尼西亚", "菲律宾", "巴西"],     "materials_text": "1.5w",  "materials": 15000  },
+    { "rank": 13, "product": "iDrama",          "company": "HK Good Drama Technology",      "regions": ["德国", "法国", "葡萄牙"],          "materials_text": "1.5w",  "materials": 15000  },
+    { "rank": 14, "product": "畅读热剧MoboReels", "company": "MOBOREADER TECHNOLOGY",         "regions": ["法国", "德国", "美国"],            "materials_text": "1.3w",  "materials": 13000  },
+    { "rank": 15, "product": "Story TV",        "company": "Story TV",                      "regions": ["美国", "印度", "新加坡"],          "materials_text": "1.2w",  "materials": 12000  },
+    { "rank": 16, "product": "DashReels",       "company": "Dashverse Corp",                "regions": ["美国", "新加坡", "印度"],          "materials_text": "1.2w",  "materials": 12000  },
+    { "rank": 17, "product": "FlickReels",      "company": "FARSUN PTE. LTD.",              "regions": ["葡萄牙", "德国", "法国"],          "materials_text": "8161",  "materials": 8161   },
+    { "rank": 18, "product": "Vigloo",          "company": "SpoonLabs",                     "regions": ["美国", "印度尼西亚", "葡萄牙"],     "materials_text": "7705",  "materials": 7705   },
+    { "rank": 19, "product": "Viralo",          "company": "Rigi",                          "regions": ["印度", "美国", "新加坡"],          "materials_text": "6929",  "materials": 6929   },
+    { "rank": 20, "product": "QuickTV",         "company": "ShareChat",                     "regions": ["印度", "美国", "沙特"],            "materials_text": "6819",  "materials": 6819   },
+    { "rank": 21, "product": "PineDrama",       "company": "TikTok Pte. Ltd.",              "regions": ["印度尼西亚", "巴西", "美国"],       "materials_text": "6081",  "materials": 6081   },
+    { "rank": 22, "product": "FlareFlow",       "company": "FlareFlow Pte. Ltd.",           "regions": ["德国", "美国", "巴西"],            "materials_text": "6074",  "materials": 6074   },
+    { "rank": 23, "product": "RapidTV",         "company": "Kennedyy",                      "regions": ["法国", "西班牙", "葡萄牙"],         "materials_text": "5753",  "materials": 5753   },
+    { "rank": 24, "product": "JoyReels",        "company": "UREELS PTE. LTD.",              "regions": ["德国", "美国", "法国"],            "materials_text": "5031",  "materials": 5031   },
+    { "rank": 25, "product": "Playlet",         "company": "清盈网络",                       "regions": ["德国", "葡萄牙", "法国"],          "materials_text": "4929",  "materials": 4929   },
+    { "rank": 26, "product": "Kalos TV",        "company": "明颜",                           "regions": ["葡萄牙", "美国", "巴西"],          "materials_text": "4912",  "materials": 4912   },
+    { "rank": 27, "product": "Pop Drama",       "company": "Aura Stream",                   "regions": ["西班牙", "法国", "德国"],          "materials_text": "4708",  "materials": 4708   },
+    { "rank": 28, "product": "ShortsWave",      "company": "HALOFUN PTE. LTD.",             "regions": ["美国", "葡萄牙", "德国"],          "materials_text": "4411",  "materials": 4411   },
+    { "rank": 29, "product": "AnyReel",         "company": "Hong Kong Begin Wealth",        "regions": ["葡萄牙", "德国", "西班牙"],         "materials_text": "4188",  "materials": 4188   },
+    { "rank": 30, "product": "Dramabit",        "company": "-",                              "regions": ["西班牙", "葡萄牙", "法国"],         "materials_text": "4081",  "materials": 4081   }
+  ]
+}
