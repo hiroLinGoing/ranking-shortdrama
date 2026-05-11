@@ -1,0 +1,24 @@
+# 虚拟环境 / 依赖
+.venv/
+venv/
+__pycache__/
+*.pyc
+node_modules/
+
+# 构建产物（Vercel 会自己重新 build）
+frontend/dist/
+frontend/.vite/
+
+# 环境变量（要在 Vercel Dashboard 配置）
+.env
+.env.*
+!.env.example
+
+# 编辑器 / 系统
+.DS_Store
+.idea/
+.vscode/
+
+# git / 文档
+.git/
+.claude/
