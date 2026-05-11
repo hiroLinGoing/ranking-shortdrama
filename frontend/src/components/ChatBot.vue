@@ -1,5 +1,6 @@
 <script setup>
 import { ref, watch, nextTick, onMounted, computed } from 'vue'
+import { CHAT_STREAM_URL } from '../api.js'
 
 const STORAGE_KEY = 'ranking_chatbot_history_v1'
 const MAX_HISTORY = 30
@@ -100,7 +101,7 @@ async function send() {
   abortCtrl.value = ctrl
 
   try {
-    const resp = await fetch('/api/chat/stream', {
+    const resp = await fetch(CHAT_STREAM_URL, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ messages: history }),

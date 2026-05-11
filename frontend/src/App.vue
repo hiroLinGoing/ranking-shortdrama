@@ -58,7 +58,7 @@ async function loadAll() {
     regionStats.value = rs
     topStats.value = ts
   } catch (e) {
-    error.value = `数据加载失败：${e.message}（请确认后端 http://localhost:8001 已启动）`
+    error.value = `数据加载失败：${e.message}`
   } finally {
     loading.value = false
   }
@@ -73,7 +73,7 @@ onMounted(loadAll)
       <div class="hero-left">
         <div class="brand">DataEye</div>
         <h1>海外微短剧APP素材投放（总榜）</h1>
-        <p v-if="meta" class="period">
+        <p v-if="meta && meta.period" class="period">
           统计时间：{{ meta.period.start }} ~ {{ meta.period.end }} · 共
           <b>{{ meta.total }}</b> 个产品
         </p>
